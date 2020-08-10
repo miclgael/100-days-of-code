@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!-- template
+### Day 0: 2020-08-
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**:
+-->
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: 2020-08-09
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Experimented with Twitch API / read the docs / made a widget in Vue.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Vue <3 - struggled with fetch() headers for a while. Messed with oAuth a bit.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to ~~work~~ docs**: [dev.twitch.tv](https://dev.twitch.tv/)
 
+### Day 1: 2020-08-10
 
-### Day 1: June 27, Monday
+**Today's Progress**: Worked on a little PHP backend. It consumes a csv of users and negotiates client-side access to a page.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: `null`
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: `null`
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
