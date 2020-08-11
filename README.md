@@ -1,11 +1,13 @@
+<!-- @format -->
+
 # I've joined the #100DaysOfCode Challenge
 
 ## 📖 README
 
-* [Rules](https://github.com/kallaway/100-days-of-code/rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](https://github.com/kallaway/100-days-of-code/blob/master/FAQ.md)
-* [Resources](https://github.com/kallaway/100-days-of-code/blob/master/resources.md)
+- [Rules](https://github.com/kallaway/100-days-of-code/blob/master/rules.md)
+- [Log - click here to see my progress](log.md)
+- [FAQ](https://github.com/kallaway/100-days-of-code/blob/master/FAQ.md)
+- [Resources](https://github.com/kallaway/100-days-of-code/blob/master/resources.md)
 
 ## 🍴 This is a fork!
 
