@@ -62,4 +62,10 @@
 
 **Link(s) to work**: `null`
 
+### Day 8: 2020-08-22
 
+**Today's Progress**: Changed my Zsh prompt to the unicorn emoji 🦄
+
+**Thoughts**: The base theme is the default robbyrussel theme. Rather than make a new theme, I've just copied that code to the `~/.zshrc` file. I've just prepended the emoji, so its as simple as modifying the `PROMPT` variable with `PROMPT="🦄 "` followed by `PROMPT += ...normal theme stuff`
+
+**Link(s) to work**: `null`
