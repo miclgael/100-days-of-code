@@ -69,3 +69,26 @@
 **Thoughts**: The base theme is the default robbyrussel theme. Rather than make a new theme, I've just copied that code to the `~/.zshrc` file. I've just prepended the emoji, so its as simple as modifying the `PROMPT` variable with `PROMPT="🦄 "` followed by `PROMPT += ...normal theme stuff`
 
 **Link(s) to work**: `null`
+
+## 62 DAY GAP!
+
+I have had thee worst couple of months. So I don't even care. Picking up in 5... 4... 3... 2... 1...
+
+### Day 9: 2020-10-22
+
+**Today's Progress**: Started working on a web scraper using puppeteer. The process of downloading lectures for school is very manual, so this thing is going to assist. Others have tried before me using Python, but I couldn't get those to work. Also I like JS.
+
+**Thoughts**: It's slower and tricker than i expected to deal with things like Single Sign-On, moving around multiple pages, and just getting the selectors right, to make sure you're manipulating the correct piece of DOM. Also made tricky by how ridiculously bad the website i'm working with is put together. 
+
+**Link(s) to work**: [echo-scraper](https://github.com/miclgael/echo-scraper) 🔒 (Private for now)
+
+### Day 10: 2020-10-23
+
+**Today's Progress**: I've been working on this workflow for the Alfred app (macOS). 
+
+**Thoughts**: It's fun trying out a new ecosystem, Alfred has its own package manager(?) called [Packal](http://www.packal.org). Also, I learned that the `*.alfredworkflow` extension, is just a renamed `*.zip`, which would have been good to know, like, _yesterday_. 
+
+![Adam Sandler in the wedding singer, with caption "Things that could have been brought to my attention YESTERDAY!"](https://media1.tenor.com/images/5be1d37605f45c2be6b61d35986bc11a/tenor.gif?itemid=6055305)
+
+**Link(s) to work**: [Alfred MAMP Workflow](https://github.com/miclgael/alfred-mamp-workflow/)
+
