@@ -18,6 +18,8 @@
 
 **Link(s) to ~~work~~ docs**: [dev.twitch.tv](https://dev.twitch.tv/)
 
+---
+
 ### Day 2: 2020-08-10
 
 **Today's Progress**: Worked on a little PHP backend. It consumes a csv of users and negotiates client-side access to a page.
@@ -26,9 +28,13 @@
 
 **Link(s) to work**: `null`
 
+---
+
 ### Day 3: 2020-08-11
 
 **Today's Progress**: Continued on that one 👆 :) (NDA, sorry it's boring)
+
+---
 
 ### Day 4: 2020-08-12
 
@@ -38,6 +44,8 @@
 
 **Link(s) to work**: I have decided I'll make it public, but I've gotta clean it up _a little_ first.
 
+---
+
 ### Day 5: 2020-08-13
 
 **Today's Progress**: Working on a nuxt.js project for work. Axios request for some data, then gently massage it using `map`, `reduce` and `filter`. 
@@ -45,6 +53,8 @@
 **Thoughts**: Need to break components into smaller pieces. These components were starting to get messy and unwieldy over time. 
 
 **Link(s) to work**: `null`
+
+---
 
 ### Day 6: 2020-08-14
 
@@ -54,6 +64,8 @@
 
 **Link(s) to work**: `null`
 
+---
+
 ### Day 7: 2020-08-17
 
 **Today's Progress**: I took the weekend off. Today I got back up to speed on the backend, and messed around with cookies some more, before I ended up with a gnarly headache and had to take a break.
@@ -61,6 +73,8 @@
 **Thoughts**: Some of the legacy code is a bit "spaghetti", so this job might benefit from working in a sandbox away from some of the dependent code as well.
 
 **Link(s) to work**: `null`
+
+---
 
 ### Day 8: 2020-08-22
 
@@ -70,11 +84,15 @@
 
 **Link(s) to work**: `null`
 
-## 62 DAY GAP!
+---
+
+## 61 DAY GAP!
 
 I have had thee worst couple of months. So I don't even care. Picking up in 5... 4... 3... 2... 1...
 
-### Day 9: 2020-10-22
+---
+
+### Day 9: 2020-10-21
 
 **Today's Progress**: Started working on a web scraper using puppeteer. The process of downloading lectures for school is very manual, so this thing is going to assist. Others have tried before me using Python, but I couldn't get those to work. Also I like JS.
 
@@ -82,7 +100,9 @@ I have had thee worst couple of months. So I don't even care. Picking up in 5...
 
 **Link(s) to work**: [echo-scraper](https://github.com/miclgael/echo-scraper) 🔒 (Private for now)
 
-### Day 10: 2020-10-23
+---
+
+### Day 10: 2020-10-22
 
 **Today's Progress**: I've been working on this workflow for the Alfred app (macOS). 
 
@@ -91,4 +111,14 @@ I have had thee worst couple of months. So I don't even care. Picking up in 5...
 ![Adam Sandler in the wedding singer, with caption "Things that could have been brought to my attention YESTERDAY!"](https://media1.tenor.com/images/5be1d37605f45c2be6b61d35986bc11a/tenor.gif?itemid=6055305)
 
 **Link(s) to work**: [Alfred MAMP Workflow](https://github.com/miclgael/alfred-mamp-workflow/)
+
+---
+
+### Day 10: 2020-10-23
+
+**Today's Progress**: Spent two hours fixing bugs with the scraper project, and now have a functional prototype.
+
+**Thoughts**: It's a bit of a pain working with Puppeteer, constantly authing and re-authing just to test minor bugs. Would be good to do some kind of actual tutorials on best-practices for this kind of use-case. Anyway, excited that the project might actually work. Just a few more things to refactor and I can make the repo public again.
+
+**Link(s) to work**: [echo-scraper](https://github.com/miclgael/echo-scraper) 🔒 (Private for now)
 
