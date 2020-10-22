@@ -114,7 +114,7 @@ I have had thee worst couple of months. So I don't even care. Picking up in 5...
 
 ---
 
-### Day 10: 2020-10-23
+### Day 11: 2020-10-23
 
 **Today's Progress**: Spent two hours fixing bugs with the scraper project, and now have a functional prototype.
 
