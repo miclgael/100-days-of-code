@@ -122,3 +122,14 @@ I have had thee worst couple of months. So I don't even care. Picking up in 5...
 
 **Link(s) to work**: [echo-scraper](https://github.com/miclgael/echo-scraper) 🔒 (Private for now)
 
+
+---
+
+### Day 12: 2020-10-24
+
+**Today's Progress**: Stayed up late configuring [pi-hole](https://pi-hole.net). Now blocking ads network-wide in my home. With some bonus extras as well. Not super codey, more sys-adminy, but a little terminal action required so I'm counting it. 
+
+**Thoughts**: Turns out my cheapie router has a secret page to configure DNS settings: `/dnscfg.html`, and another secret page for wifi settings. `/wlcfgadv.html` Thanks to this post on [whirlpool forums](https://whrl.pl/Reonpz) 
+
+**Link(s) to work**: `null`
+
